@@ -1,0 +1,7 @@
+Algorithm: Add Two Numbers
+Start
+Input the first number (A)
+Input the second number (B)
+Add the two numbers (Sum = A + B)
+Display the sum
+Stop
